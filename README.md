@@ -3,6 +3,7 @@
 
 
 ### I was watching the 6.034 Artificial Intelligence by Patrick Winston. 
+
 ### In one of his very first lectures, he explained a simple but very effective model which can moves
 ### boxes around as instructed through stacks of boxes and will also reason why it did move the boxes
 ### around the way it did when asked with a 'Why' or 'How' question such as 'Why did you move the Box2?'
